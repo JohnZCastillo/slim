@@ -1,0 +1,10 @@
+vendor/
+nbproject/
+composer.lock
+phpDocumentor.phar
+.phpdoc/
+todo.txt
+.env
+.idea/
+!/public/resources/assets/vendor/
+.phpunit.result.cache
